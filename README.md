@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHV3OHhwc29pdm1kZW52aXdsb2cyM2xjajhjd2FsdDV6MXpxbnZvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pmqaQproKGQ6v02O1n/giphy.gif)](https://rishavchanda.io)
+<div align="center"> <img src="https://ih1.redbubble.net/image.906893060.1802/st,small,507x507-pad,600x600,f8f8f8.jpg"> </div>
 <h1 align="center">Hi 👋, I'm Berk Aktas</h1>
 <h3 align="center">A passionate Full-Stack Developer from Turkey</h3>
 
