@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://ih1.redbubble.net/image.906893060.1802/st,small,507x507-pad,600x600,f8f8f8.jpg"> </div>
+<div align="center"> <img height="300" width="500" src="https://ih1.redbubble.net/image.906893060.1802/st,small,507x507-pad,600x600,f8f8f8.jpg"> </div>
 <h1 align="center">Hi 👋, I'm Berk Aktas</h1>
 <h3 align="center">A passionate Full-Stack Developer from Turkey</h3>
 
